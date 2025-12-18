@@ -1,0 +1,7 @@
+{
+  "name": "设计风格迁移 (AI Style Transformer)",
+  "description": "An advanced AI-powered image style transfer tool supporting multiple artistic styles like Cyberpunk, Watercolor, Anime, Chinese Ink, and more, including text and object manipulation features.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
